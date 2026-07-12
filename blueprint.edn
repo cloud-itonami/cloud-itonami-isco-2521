@@ -1,0 +1,11 @@
+[{:itonami.blueprint/id "cloud-itonami-isco-2521"
+  :itonami.blueprint/name "Community Database Practice"
+  :itonami.blueprint/isco-08 "2521"
+  :itonami.blueprint/domain :ict/database-administration
+  :itonami.blueprint/license "AGPL-3.0-or-later"
+  :itonami.blueprint/social-impact [:data-stewardship :service-reliability :local-jobs]
+  :itonami.blueprint/governor :database-administration-governor
+  :itonami.blueprint/robotics true
+  :itonami.blueprint/required-technologies [:robotics :identity :forms :dmn :bpmn :audit-ledger]
+  :itonami.blueprint/status :public-oss
+  :db/id -1}]
