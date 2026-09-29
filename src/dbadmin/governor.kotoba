@@ -1,7 +1,7 @@
 (ns dbadmin.governor
   "DatabaseAdministrationGovernor — the independent safety/traceability
   layer for the ISCO-08 2521 community database-practice actor (itonami
-  actor pattern, ADR-2607011000 / CLAUDE.md Actors section). Modeled on
+  actor pattern, ADR-2607011000 / AGENTS.md Actors section). Modeled on
   cloud-itonami-isco-4311's bookkeeping.governor. DBA-specific twist:
   applying a migration requires a backup whose schema version EQUALS
   the database's current version — a deterministic equality the
